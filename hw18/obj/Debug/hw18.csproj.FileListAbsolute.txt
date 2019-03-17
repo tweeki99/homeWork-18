@@ -1,0 +1,7 @@
+C:\Users\Shipa\source\repos\hw18\hw18\bin\Debug\hw18.exe.config
+C:\Users\Shipa\source\repos\hw18\hw18\bin\Debug\hw18.exe
+C:\Users\Shipa\source\repos\hw18\hw18\bin\Debug\hw18.pdb
+C:\Users\Shipa\source\repos\hw18\hw18\obj\Debug\hw18.csprojAssemblyReference.cache
+C:\Users\Shipa\source\repos\hw18\hw18\obj\Debug\hw18.csproj.CoreCompileInputs.cache
+C:\Users\Shipa\source\repos\hw18\hw18\obj\Debug\hw18.exe
+C:\Users\Shipa\source\repos\hw18\hw18\obj\Debug\hw18.pdb
